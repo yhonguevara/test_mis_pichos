@@ -1,7 +1,9 @@
 {
-	"durationBefore": 15,
-	"durationAfter": 0,
-	"slots": {
+	"duration": {
+		"before": 15,
+		"after": 0
+	},
+	"spots": {
 		"10-04-2023": [
 			{ "start": "10:00", "end": "10:15" },
 			{ "start": "11:15", "end": "11:25" },
